@@ -23,7 +23,7 @@ This dataset contains sales transaction records including transaction values and
 ## Key Findings
 - Total revenue generated was approximately $10 million, indicating a high-volume or high-value sales environment.
 - The average transaction value was approximately $3,000, indicating relatively large purchase sizes.
-
+- Total revenue (~$10M) combined with a relatively high average transaction value (~$3K) suggests that revenue is driven by fewer, higher-value transactions rather than a large volume of small purchases.
 
 ## Files
 - `sales_analysis.db` → database file
